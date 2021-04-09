@@ -1,4 +1,4 @@
-package com.codewithmosh.state;
+package com.codewithmosh.state.Exercise;
 
 public enum TravelMode {
     DRIVING,

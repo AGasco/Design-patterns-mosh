@@ -1,6 +1,6 @@
 package com.codewithmosh;
 
-import com.codewithmosh.state.Demo;
+import com.codewithmosh.state.Exercise.Demo;
 
 public class Main {
 
