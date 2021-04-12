@@ -1,6 +1,6 @@
 package com.codewithmosh;
 
-import com.codewithmosh.template.Exercise.Demo;
+import com.codewithmosh.command.Demo;
 
 public class Main {
 
