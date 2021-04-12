@@ -1,4 +1,4 @@
-package com.codewithmosh.observer;
+package com.codewithmosh.observer.Exercise;
 
 public class Stock {
     private String symbol;

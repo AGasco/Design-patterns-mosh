@@ -1,9 +1,9 @@
-package com.codewithmosh.observer;
+package com.codewithmosh.observer.Exercise;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class StockListView {
+public class StatusBar {
     private List<Stock> stocks = new ArrayList<>();
 
     public void addStock(Stock stock) {
