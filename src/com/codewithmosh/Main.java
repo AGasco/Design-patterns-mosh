@@ -1,6 +1,6 @@
 package com.codewithmosh;
 
-import com.codewithmosh.observer.Demo;
+import com.codewithmosh.observer.Exercise.Demo;
 
 public class Main {
 
