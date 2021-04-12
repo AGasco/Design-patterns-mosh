@@ -1,6 +1,6 @@
 package com.codewithmosh;
 
-import com.codewithmosh.chainOfResponsibility.Exercise.Demo;
+import com.codewithmosh.visitor.Demo;
 
 public class Main {
 

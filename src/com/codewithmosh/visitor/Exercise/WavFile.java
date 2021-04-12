@@ -1,4 +1,4 @@
-package com.codewithmosh.visitor;
+package com.codewithmosh.visitor.Exercise;
 
 import java.util.ArrayList;
 import java.util.List;
