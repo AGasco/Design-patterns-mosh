@@ -1,4 +1,4 @@
-package com.codewithmosh.command.framework;
+package com.codewithmosh.command.explanation.framework;
 
 public class Button {
     private String label;

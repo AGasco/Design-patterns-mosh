@@ -1,4 +1,4 @@
-package com.codewithmosh.command.framework;
+package com.codewithmosh.command.Exercise;
 
 public interface Command {
     void execute();

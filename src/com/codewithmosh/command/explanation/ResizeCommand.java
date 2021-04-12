@@ -1,6 +1,6 @@
-package com.codewithmosh.command;
+package com.codewithmosh.command.explanation;
 
-import com.codewithmosh.command.framework.Command;
+import com.codewithmosh.command.explanation.framework.Command;
 
 public class ResizeCommand implements Command {
     @Override
