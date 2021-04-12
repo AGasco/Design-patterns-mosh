@@ -1,6 +1,6 @@
 package com.codewithmosh;
 
-import com.codewithmosh.mediator.Demo;
+import com.codewithmosh.mediator.Exercise.Demo;
 
 public class Main {
 
