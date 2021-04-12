@@ -1,4 +1,4 @@
-package com.codewithmosh.chainOfResponsibility;
+package com.codewithmosh.chainOfResponsibility.Exercise;
 
 public class DataReader {
     public void read(String fileName) {
