@@ -1,6 +1,6 @@
 package com.codewithmosh;
 
-import com.codewithmosh.structural.composite.Exercise.Demo;
+import com.codewithmosh.structural.adapter.Exercise.Demo;
 
 public class Main {
 
