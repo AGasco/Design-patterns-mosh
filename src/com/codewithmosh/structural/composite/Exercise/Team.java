@@ -3,21 +3,17 @@ package com.codewithmosh.structural.composite.Exercise;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Team {
-  private List<Object> resources = new ArrayList<>();
+public class Team implements Component {
+  private List<Component> components = new ArrayList<>();
 
-  public void add(Object resource) {
-    resources.add(resource);
+  public void add(Component component) {
+    components.add(component);
   }
 
+  @Override
   public void deploy() {
-    for (var resource : resources) {
-      if (resource instanceof Truck)
-        ((Truck)resource).deploy();
-      else if (resource instanceof HumanResource)
-        ((HumanResource)resource).deploy();
-      else
-        ((Team)resource).deploy();
+    for (var component : components) {
+      component.deploy();
     }
   }
 }
