@@ -1,6 +1,6 @@
 package com.codewithmosh;
 
-import com.codewithmosh.structural.flyweight.Exercise.Demo;
+import com.codewithmosh.structural.proxy.Demo;
 
 public class Main {
 
